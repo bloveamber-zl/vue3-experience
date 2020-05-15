@@ -1,10 +1,10 @@
 <template>
-    <p>此专栏暂时不开放</p>
+    <p>请微信单独找小磊磊</p>
 </template>
 
 <script>
 	export default {
-		name: "About"
+		name: "Talk"
 	}
 </script>
 
